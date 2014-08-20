@@ -1,4 +1,4 @@
-/* This program generates a multiplication table for the first N primes. 
+/* This program generates a list of the first N primes. 
  * 
  * Jamie Schwettmann
  * @complexbits
